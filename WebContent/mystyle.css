@@ -1,0 +1,20 @@
+body {
+        background-color: #b2d1ca;
+    }
+.header {
+        background-color: #b0d4de;
+        border-style: outset;
+        padding: 10px;
+    }
+.login {
+        background-color: #b0d4de;
+        padding: 10px;
+    }
+.actions {
+        background-color: #b0d4de;
+        padding: 10px;
+    }
+.message{
+    	color: red;
+    	padding: 5px
+    }
